@@ -1,3 +1,4 @@
+# It is project for Image Processing Course at Lodz University of Technology 
 
 ## Face Recognition Python
 
